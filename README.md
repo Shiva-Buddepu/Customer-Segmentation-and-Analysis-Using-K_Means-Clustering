@@ -38,8 +38,3 @@ A **3D visualization** is generated to provide a comprehensive view of cluster d
 - Each cluster represents a distinct group of customers (e.g., high spenders, average buyers, budget-conscious customers).
 - The insights can be used for targeted marketing, personalized recommendations, and business decision-making.
 
-
-
-
-   ```bash
-   git clone https://github.com/<your-username>/Customer-Segmentation-KMeans.git
